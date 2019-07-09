@@ -1,5 +1,4 @@
-# Game1
-A choose your own adventure game by me. 
+# This is a choose your own adventure game that I coded.
 
 
 def option(): #This is a code that lets you start the game again
